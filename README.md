@@ -44,7 +44,9 @@ cd <your folder location>
 streamlit run app.py
 
 
-## 📷 Screenshots
+## ScreenShots :
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/296b24e1-b1fc-43d6-890e-657dfcdbb9be" />
 
 ## 📊 Tech Stack
