@@ -35,12 +35,46 @@ pip install -r requirements.txt
 3. **Set up API Key
 
 Get your Gemini API key from Google AI Studio.
-
+here the link : https://aistudio.google.com/app/u/1/apikey
 Create a file .streamlit/secrets.toml in the project folder and add:**
-GEMINI_API_KEY = "your_api_key_here"
+🔑 Enter your Gemini API Key: 'Your Api Key
 
 ## ▶️ Run the Application
 cd <your folder location>
 streamlit run app.py
 
+
 ## 📷 Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/296b24e1-b1fc-43d6-890e-657dfcdbb9be" />
+
+## 📊 Tech Stack
+
+Python 🐍
+
+Streamlit (Web UI)
+
+Google Gemini API (AI Model)
+
+langdetect (Language Detection)
+
+googletrans (Translation)
+
+## 🧪 Testing
+
+To verify functionality:
+
+Ask questions in English, Hindi, Spanish, Tamil
+
+Switch languages mid-conversation
+
+Check for correct and context-aware replies
+
+Example Queries:
+
+English: "Who is the Prime Minister of India?"
+
+Hindi: "भारत की आज़ादी कब हुई थी?"
+
+Spanish: "¿Cuál es la capital de España?"
+
+Tamil: "இந்தியா எப்போது சுதந்திரம் பெற்றது?"
