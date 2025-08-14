@@ -23,7 +23,7 @@ The application is built using **Streamlit** for a smooth and interactive interf
 ---
 
 ## 🛠️ Installation
-
+'''
 1. **Clone this repository:**
 ```bash
 git clone <your_repo_link>
@@ -42,6 +42,7 @@ Create a file .streamlit/secrets.toml in the project folder and add:**
 ## ▶️ Run the Application
 cd <your folder location>
 streamlit run app.py
+'''
 
 
 ## ScreenShots :
